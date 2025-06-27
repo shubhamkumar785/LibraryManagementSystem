@@ -2,10 +2,6 @@
 A simple console-based Library Management System in Core Java using OOP, ArrayList, and File I/O. Supports adding, deleting, searching, and displaying books with persistent storage using serialization.
 
 
-# Library Management System
-
-A basic Java console application to manage library books. Built using Core Java concepts like classes, ArrayList, file handling (serialization), and menu-driven CLI interface.
-
 ## Features:
 - Add a book
 - Delete a book
