@@ -12,6 +12,3 @@ A simple console-based Library Management System in Core Java using OOP, ArrayLi
 ## Tools Used:
 - Java (JDK 8+)
 - VS Code
-
-## Author:
-Shubham Pathak
